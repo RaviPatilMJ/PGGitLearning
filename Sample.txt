@@ -1,2 +1,3 @@
 This is Africa
 Modified africa
+This is Canada
